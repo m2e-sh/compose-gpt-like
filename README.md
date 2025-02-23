@@ -155,7 +155,9 @@ because we believe in **freedom, transparency, and innovation**!
 
 ### <a name="contributors" /> 👥 Contributors
 
-### <a name="special-thanks" /> 🎖️ Special Thanks 
+### <a name="special-thanks" /> 🎖️ Special Thanks
+
+🔥 Thanks to [Sarah](https://www.tiktok.com/@sarah_blog8) for motivating the 17711 Team to commit and push this small but useful project through her request on [TikTok](https://www.tiktok.com/@m2e.sh)! 🎯
 
 ### <a name="project-initiator" /> 🤯 Project Initiator
 
