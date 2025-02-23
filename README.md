@@ -1,4 +1,4 @@
-# Docker-Compose to run a GPT-Like
+# 👾 Docker-Compose to run a GPT-Like
 
 > 🧠 **compose-gpt-like** is a Docker Compose setup for running [Ollama](https://ollama.com/) with [Open WebUI](https://docs.openwebui.com/), enabling local LLM inference with GPU acceleration.
 
