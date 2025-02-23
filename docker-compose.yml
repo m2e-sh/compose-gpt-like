@@ -1,0 +1,42 @@
+services:
+  ollama:
+    image: ollama/ollama:0.3.9
+    #devices:
+    #  - /dev/kfd
+    #  - /dev/dri
+    environment:
+      #- HSA_OVERRIDE_GFX_VERSION=10.3.0
+      #- ROCR_VISIBLE_DEVICES=1
+      HUGGINGFACE_API_KEY: "$HUGGINGFACE_API_KEY"
+    pull_policy: always
+    container_name: ollama
+    ports:
+      - 8888:11434
+    volumes:
+      - /home/user/data/ollama:/root/.ollama
+    tty: true
+    deploy:
+      resources:
+        reservations:
+          devices:
+            - driver: nvidia
+              count: all
+              capabilities: [gpu]
+    restart: unless-stopped
+
+  ollama-webui:
+    image: ghcr.io/open-webui/open-webui:main
+    container_name: open-webui
+    depends_on:
+      - ollama
+    ports:
+      - 8080:8080
+    environment:
+      OLLAMA_BASE_URL: "http://ollama:11434"
+      WEBUI_SECRET_KEY: "$WEBUI_SECRET_KEY"
+    extra_hosts:
+      - host.docker.internal:host-gateway
+    volumes:
+      - /home/user/data/open-webui:/app/backend/data
+    restart: unless-stopped
+
