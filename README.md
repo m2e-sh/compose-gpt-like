@@ -84,7 +84,34 @@ Love what we're building? **Support our work and help us grow!** Your contributi
 
 ### <a name="software-requirements" /> 📦 Sofware Requirements
 
+You need:
+- [Docker](https://www.docker.com)
+- [Docker Compose](https://docs.docker.com/compose)
+- a API key to download LLM from [HuggingFaces](https://www.huggingfaces.com).
+
 ## <a name="getting-started" /> 🚀 Getting Started
+
+### <a name="configure" /> Prepare your environment
+
+Clone the repository then copy environment file:
+
+```sh
+# Clone the current repository
+git clone git@github.com:m2e-sh/compose-gpt-like.git
+
+# Change directory to the cloned repo
+cd compose-gpt-like
+
+# Copy the sample environment variables
+cp .env.sample .env
+```
+
+Please change values of the environment variables in your `.env` file:
+
+```sh
+WEBUI_SECRET_KEY=your-secret-webui-key
+HUGGINGFACE_API_KEY=my-hugging-faces-api-key
+```
 
 ### <a name="start-the-services" /> ▶️ Start the Services
 
