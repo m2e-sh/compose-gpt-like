@@ -11,12 +11,12 @@
 - 📝 [Synopsis](#synopsis)
 - 💖 [Support our *17711* team! Support & Donation](#support-donation)
 - ⚙️ [Requirements](#requirements)
-- 🖥️ [Hardware Requirements](#hardware-requirements)
-- [Software Requirements](#software-requirements)
+  - 🖥️ [Hardware Requirements](#hardware-requirements)
+  - 📦 [Software Requirements](#software-requirements)
 - 🚀 [Getting Started](#getting-started)
-  - [Start the Services](#start-the-services)
-  - [Stop the Services](#stop-the-services)
-  - [Access Open WebUI](#access-open-webui)
+  - ▶️ [Start the Services](#start-the-services)
+  - ⏹️ [Stop the Services](#stop-the-services)
+  - 🕸️ [Access Open WebUI](#access-open-webui)
 - 🛠 [Issues & Contributions](#issues-contributions)
 - 👾 [About *17711*](#team17711)
 - 🙏 [Crédits](#credits)
@@ -82,23 +82,23 @@ Love what we're building? **Support our work and help us grow!** Your contributi
 ✅ Best performance with **CUDA-enabled GPUs**  
 ⚠️ Running on CPU is **not practical** due to extreme latency
 
-### <a name="software-requirements" /> Sofware Requirements
+### <a name="software-requirements" /> 📦 Sofware Requirements
 
 ## <a name="getting-started" /> 🚀 Getting Started
 
-### <a name="start-the-services" /> Start the Services
+### <a name="start-the-services" /> ▶️ Start the Services
 
 ```sh
 docker-compose up -d
 ```
 
-### <a name="stop-the-services" /> Stop the Services
+### <a name="stop-the-services" /> ⏹️ Stop the Services
 
 ```sh
 docker-compose down
 ```
 
-### <a name="access-open-webui" /> Access Open WebUI
+### <a name="access-open-webui" /> 🕸️ Access Open WebUI
 
 Once the containers are running, you can access your local Open WebUI from your favorite browser at: [http://localhost:8080](http://localhost:8080)
 
