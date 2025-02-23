@@ -20,7 +20,7 @@
 - 🛠 [Issues & Contributions](#issues-contributions)
 - 👾 [About *17711*](#team17711)
 - 🙏 [Crédits](#credits)
-  - 🙏 Acknowledgments](#acknowledgments)
+  - 🙏 [Acknowledgments](#acknowledgments)
   - 🏆 [Attributions](#attributions)
   - 👥 [Contributors](#contributors)
   - 🎖️ [Special Thanks](#special-thanks)
