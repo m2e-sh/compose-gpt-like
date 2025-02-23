@@ -2,7 +2,7 @@
 
 > 🧠 **compose-gpt-like** is a Docker Compose setup for running [Ollama](https://ollama.com/) with [Open WebUI](https://docs.openwebui.com/), enabling local LLM inference with GPU acceleration.
 
-**🚀 Created, built and driven with ❤️ by [👾 17711](#team17711) – Freedom First 🗽**
+**🚀 Created, built and driven with ❤️ by 👾 [17711](#team17711) – Freedom First 🗽**
 
 🤝 Proudly supporting [Open Source Initiative (OSI)](https://opensource.org/).
 
@@ -43,7 +43,7 @@ Love what we're building? **Support our work and help us grow!** Your contributi
 
 ## ⚙️ <a name="requirements" /> Requirements
 
-### <a name="hardware-requirements" /> Hardware Requirements
+### 🖥️ <a name="hardware-requirements" /> Hardware Requirements
 
 [Ollama](https://ollama.com/) allows you to run large language models efficiently on local hardware. The system requirements depend on the size of the model you intend to use.
 
