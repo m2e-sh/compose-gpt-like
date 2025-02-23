@@ -1,40 +1,33 @@
 # Docker-Compose to run a GPT-Like
 
-🧠 **compose-gpt-like** is a Docker Compose setup for running [Ollama](https://ollama.com/) with [Open WebUI](https://docs.openwebui.com/), enabling local LLM inference with GPU acceleration.
+> 🧠 **compose-gpt-like** is a Docker Compose setup for running [Ollama](https://ollama.com/) with [Open WebUI](https://docs.openwebui.com/), enabling local LLM inference with GPU acceleration.
+
+**🚀 Created, built and driven with ❤️ by [👾 17711](#team17711) – Freedom First 🗽**
+
+🤝 Proudly supporting [Open Source Initiative (OSI)](https://opensource.org/).
 
 ## 📖 Table of Contents
 
-📝 [Synopsis](#synopsis)
-
-💖 [Support our *17711* team! Support & Donation](#support-donation)
-
-⚙️ [Requirements](#requirements)
-
-🖥️ [Hardware Requirements](#hardware-requirements)
-
-[Software Requirements](#software-requirements)
-
-🚀 [Getting Started](#getting-started)
-
-- [Start the Services](#start-the-services)
-- [Stop the Services](#stop-the-services)
-- [Access Open WebUI](#access-open-webui)
-
-🛠 [Issues & Contributions](#issues-contributions)
-
-👾 [About *17711*](#team17711)
-
-🙏 [Crédits](#credits)
-
-- 🙏 Acknowledgments](#acknowledgments)
-- 🏆 [Attributions](#attributions)
-- 👥 [Contributors](#contributors)
-- 🎖️ [Special Thanks](#special-thanks)
-- 🤯 [Project Initiator](#project-initiator)
-  - 💬 [Contact](#project-initiator-contact)
-  - 🌍 [Social Networks](#project-initiator-social-networks)
-
-📜 [License](#license)
+- 📝 [Synopsis](#synopsis)
+- 💖 [Support our *17711* team! Support & Donation](#support-donation)
+- ⚙️ [Requirements](#requirements)
+- 🖥️ [Hardware Requirements](#hardware-requirements)
+- [Software Requirements](#software-requirements)
+- 🚀 [Getting Started](#getting-started)
+  - [Start the Services](#start-the-services)
+  - [Stop the Services](#stop-the-services)
+  - [Access Open WebUI](#access-open-webui)
+- 🛠 [Issues & Contributions](#issues-contributions)
+- 👾 [About *17711*](#team17711)
+- 🙏 [Crédits](#credits)
+  - 🙏 Acknowledgments](#acknowledgments)
+  - 🏆 [Attributions](#attributions)
+  - 👥 [Contributors](#contributors)
+  - 🎖️ [Special Thanks](#special-thanks)
+  - 🤯 [Project Initiator](#project-initiator)
+    - 💬 [Contact](#project-initiator-contact)
+    - 🌍 [Social Networks](#project-initiator-social-networks)
+- 📜 [License](#license)
 
 ## 📝 <a name="synopsis" /> Synopsis 
 
@@ -120,9 +113,12 @@ We welcome issues and contributions! If you encounter a bug or have suggestions,
 
 We are **passionate about technology, open source, AI (ML, DL, LLMs, and more), blockchain, cryptocurrencies, and digital freedom**. 
 
-**Join us** in shaping the future of decentralized, AI-powered innovations! 🚀
+We proudly support the [Open Source Initiative (OSI)](https://opensource.org/)  
+because we believe in **freedom, transparency, and innovation**!
 
-**[17711's WhatsApp group](https://chat.whatsapp.com/BoA3qs7ORHs24MDIzjc2h5)**
+🤝 **Join Us!** Contribute, collaborate, and build a decentralized future with [👾 17711](#team17711)! 🔥
+
+💌 **Contact Us!** Connect with the [17711's WhatsApp group](https://chat.whatsapp.com/BoA3qs7ORHs24MDIzjc2h5) and be part of the community! 🚀  
 
 ## <a name="credits" /> 🙏 Crédits
 
@@ -158,7 +154,7 @@ Initially written by [m2€.sh](https://github.com/m2e-sh).
 >
 > **MIT License** 
 > 
-> Copyright (c) 2025 [m2€.sh](https://github.com/m2e-sh) for [17711 Team](#) 🇪🇺
+> Copyright (c) 2025 [m2€.sh](https://github.com/m2e-sh) on behalf of [👾 17711](#) 🇪🇺
 > 
 > Permission is hereby granted, free of charge, to any person obtaining a copy
 > of this software and associated documentation files (the "Software"), to deal
