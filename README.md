@@ -14,9 +14,15 @@
   - [Stop the Services](#stop-the-services)
   - [Access Open WebUI](#access-open-webui)
 - 🛠 [Issues & Contributions](#issues--contributions)
-- [Credits](#credits)
-- 👥 [Team & Author(s)](#team-authors)
-- 🌍 [Social Networks](#social-networks]
+- 👾 [About *17711*](#team17711)
+- 🙏 [Crédits](#credits)
+  - 🙏 Acknowledgments](#acknowledgments)
+  - 🏆 [Attributions](#attributions)
+  - 👥 [Contributors](#contributors)
+  - 🎖️ [Special Thanks](#special-thanks)
+  - 🤯 [Project Initiator](#project-initiator)
+     - 💬 [Contact](#project-initiator-contact)
+     - 🌍 [Social Networks](#project-initiator-social-networks)
 - 📜 [License](#license)
 
 ## 📝 <a name="synopsis" /> Synopsis 
@@ -97,32 +103,43 @@ Once the containers are running, you can access your local Open WebUI from your 
 
 We welcome issues and contributions! If you encounter a bug or have suggestions, feel free to open an issue on our [GitHub repository](https://github.com/m2e-sh/compose-gpt-like/issues). Contributions are highly encouraged—help us build something great together! 🚀
 
-## <a name="team-authors" />👥 Team & author(s)
+---
 
-### <a name="17711-team" />[17711](https://chat.whatsapp.com/BoA3qs7ORHs24MDIzjc2h5)
+## <a name="team17711" /> 👾 About *17711*
 
-- **[17711's WhatsApp group](https://chat.whatsapp.com/BoA3qs7ORHs24MDIzjc2h5)**
+We are **passionate about technology, open source, AI (ML, DL, LLMs, and more), blockchain, cryptocurrencies, and digital freedom**. 
 
-### Author(s)
+**Join us** in shaping the future of decentralized, AI-powered innovations! 🚀
+
+**[17711's WhatsApp group](https://chat.whatsapp.com/BoA3qs7ORHs24MDIzjc2h5)**
+
+## <a name="credits" /> 🙏 Crédits
+
+### <a name="acknowledgments" /> 🙏 Acknowledgments 
+
+### <a name="attributions" /> 🏆 Attributions 
+
+### <a name="contributors" /> 👥 Contributors
+
+### <a name="special-thanks" /> 🎖️ Special Thanks 
+
+### <a name="project-initiator" /> 🤯 Project Initiator
+
+Initially written by [m2€.sh](https://github.com/m2e-sh).
+
+#### <a name="project-initiator-contact" /> 💬 Contact
 
 🔏 Send directly message to [m2€.sh](https://github.com/m2e-sh) using the next recommended encrypted messaging applications:
 
 - **[m2€.sh's Signal](https://signal.me/#eu/EF-TgxysaGuczGODQO_YKVVwmPS_CE1f_3xT4MwDbmKuvxS0JjlK35IRLrH5ZDIf)**
 - **[m2€.sh's Telegram](https://t.me/m2e_sh)**
 
-### 🌍 Social Networks
+#### <a name="project-initiator-social-networks" /> 🌍 Social Networks
 
 - [m2€.sh's GitHub](https://github.com/m2e-sh)
 - [m2€.sh's TikTok](https://www.tiktok.com/@m2e.sh)
 - [m2€.sh's Instagram](https://instagram.com/m.2e.sh)
 
----
-
-## 🌍 About *17711 Team*
-
-```markdown
-We are **passionate about technology, open source, AI (ML, DL, LLMs, and more), blockchain, cryptocurrencies, and digital freedom**. Join us in shaping the future of decentralized, AI-powered innovations! 🚀
-```
 ---
 
 ## 📜 License
